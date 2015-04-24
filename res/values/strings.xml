@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QSLauncher</string>
+	<string name="drawer_layout_open">drawer layout open</string>
+    <string name="drawer_layout_close">drawer layout close</string>
+</resources>
